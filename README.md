@@ -147,7 +147,7 @@ Fun Fact:
 
 # 🌐 Connect With Me
 
-<div align="center">
+<div align="center" ,display="flex",justify-content="space-between">
 
 <a href="https://www.linkedin.com/in/adarshmofficial">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
