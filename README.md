@@ -149,7 +149,7 @@ Fun Fact:
 
 <div align="center">
 
-<a href="www.linkedin.com/adarshmofficial">
+<a href="www.linkedin.com/in/adarshmofficial">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
