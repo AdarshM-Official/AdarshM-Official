@@ -1,121 +1,208 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Adarsh%20M&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Freelance%20Software%20Developer%20%7C%20MCA%20Graduate&descSize=18&descAlignY=55&textBg=false"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Adarsh%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Software%20Developer%20|%20AI%20Enthusiast%20|%20Creative%20Coder&descAlignY=58&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Code.+Create.+Repeat.;Building+cool+things+with+AI+%26+Web.;Turning+caffeine+into+projects+since+forever.;Bug+fixer+by+day%2C+debug+warrior+by+night." alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Stay%20Hungry%20%2C%20Stay%20Dumb" alt="Typing introduction" />
+  <img src="https://komarev.com/ghpvc/?username=AdarshM-Official&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=AdarshM-Official">
-    <img src="https://komarev.com/ghpvc/?username=AdarshM-Official&label=Profile%20views&color=00FFFF&style=flat-square" alt="AdarshM-Official's profile views" />
-  </a>
-</p>
+</div>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+---
 
-## 📌 About Me
-- 🌱 I’m currently learning Full-Stack Development & AI
-- 💻 I enjoy building creative and useful projects
-- 🤝 I’m looking to collaborate on open-source projects
-- 🧠 I’m interested in Web Development and Machine Learning
-- 📚 I’m currently improving my problem-solving skills
-- ☕ Debugging at 2AM is basically my cardio
+# 💫 About Me
 
+<img align="right" alt="Coding Girl" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-## 🧠 My Focus Areas
-- Web Development
-- Artificial Intelligence
-- Machine Learning
-- UI/UX Design
-- Open Source Contribution
-- Problem Solving
+```yaml
+Name: Adarsh M
+Role: Student & Developer
+Focus: Freelance Software Development + AI
 
+Currently Learning:
+  - React & Node.js
+  - Backend Development
+  - Artificial Intelligence
+  - UI/UX Design
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/AdarshM-Official">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdarshM-Official&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="AdarshM-Official's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=AdarshM-Official&theme=monokai&hide_border=true&cache_seconds=86400" alt="AdarshM-Official's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=AdarshM-Official&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Adarsh M's GitHub Trophies" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
-</p>
+Hobbies:
+  - Coding
+  - Designing
+  - Teaching 
+  - Exploring new technologies
+  - Breaking code and fixing it again 😭
 
+Fun Fact:
+  - Debugging at 2AM feels illegal but productive ☕
+```
 
-## 🛠️ Languages & Tools
+### 🌱 What I’m Up To
+- 🚀 Building creative and useful web projects
+- 🤝 Looking to collaborate on open-source projects
+- 🧠 Exploring AI & Machine Learning
+- 💡 Improving problem-solving and DSA skills
+- 🎨 Designing clean and modern user experiences
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+---
 
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-
-</p>
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="www.linkedin.com/in/adarshmofficial">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://wa.me/918129265614">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:adarshm.off@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<p align="center"><a href="https://www.buymeacoffee.com/Adarsh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+# 🧠 Focus Areas
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+
+| 💻 Development | 🤖 AI/ML | 🎨 Design | ⚡ Other |
+|---|---|---|---|
+| Web Development | Machine Learning | UI/UX Design | Open Source |
+| Frontend Apps | Artificial Intelligence | Responsive UI | Problem Solving |
+| Backend APIs | Deep Learning | Creative Design | Team Collaboration |
+
+</div>
+
+---
+
+# ⚒️ Tech Stack
+
+<div align="center">
+
+## 👩‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
+</p>
+
+## ⚛️ Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+## 🛠️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+</p>
+
+## 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+</p>
+
+## ☁️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,postman" />
+</p>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AdarshM=Official&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshM-Official&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshM-Official&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdarshM-Official&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| 🌐 Portfolio Website | Personal portfolio showcasing projects and skills | React, Tailwind |
+| 🤖 AI Chatbot | AI-powered chatbot application | Python, Flask |
+| 📱 Task Manager | Productivity and task management app | MERN Stack |
+| 🎨 UI Components | Reusable modern UI components | React, CSS |
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+- ✅ Master Full-Stack Development
+- ✅ Build AI-powered applications
+- ✅ Contribute more to Open Source
+- ✅ Learn advanced system design
+- ✅ Create projects that people actually use 😄
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="www.linkedin.com/in/adarshmofficial">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:adarshm.off@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<a href="https://github.com/AdarshM-Official">
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://twitter.com/Adarsh373952">
+  <img src="https://skillicons.dev/icons?i=twitter" width="50"/>
+</a>
+
+</div>
+
+---
+
+# ✨ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 😂 Programmer Meme
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
 </div>
