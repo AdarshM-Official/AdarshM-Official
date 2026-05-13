@@ -147,12 +147,12 @@ Fun Fact:
 
 # 🌐 Connect With Me
 
-<div align="center" ,display="flex",justify-content="space-between">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/adarshmofficial">
   <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
-
+<br>
 <a href="mailto:adarshm.off@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
