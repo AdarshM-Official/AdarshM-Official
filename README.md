@@ -6,7 +6,7 @@
 ### 🚀 Building the future, one commit at a time
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdarshM-Official&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdarshM-Official&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
 </div>
 
 ## 🎯 Current Focus
@@ -57,8 +57,8 @@ My passion lies in crafting robust, intelligent, and scalable solutions. Here's 
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdarshM-Official&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshM-Official&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdarshM-Official&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshM-Official&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
 ### 🏆 GitHub Achievements
@@ -67,12 +67,23 @@ My passion lies in crafting robust, intelligent, and scalable solutions. Here's 
 </p>
 
 ### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshM-Official&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshM-Official&theme=tokyo-night&hide_border=true"/>
+
+<!-- If the graph above doesn't load, it's likely rate-limited on the shared public instance.
+     Fallback mirror (community-hosted, drop in as a replacement if needed):
+     https://github-readme-activity-graph-psi.vercel.app/graph?username=AdarshM-Official&theme=tokyo-night&hide_border=true
+     Most reliable fix: deploy your own free instance at
+     https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 ### 🔥 Streak Statistics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshM-Official&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=AdarshM-Official&theme=tokyonight&hide_border=true"/>
 </p>
+
+<!-- Old herokuapp.com link is dead (Heroku free tier discontinued).
+     streak-stats.demolab.com is the current official domain.
+     Fallback mirror if that's ever down:
+     https://github-readme-streak-stats-eight.vercel.app/?user=AdarshM-Official&theme=tokyonight&hide_border=true -->
 
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/AdarshM-Official" alt="Contribution Calendar" width="100%"/>
@@ -87,7 +98,7 @@ My passion lies in crafting robust, intelligent, and scalable solutions. Here's 
 <div align="center">
 
 ### 🌟 [Django SaaS Platform](https://github.com/AdarshM-Official/your-saas-repo) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=your-saas-repo&theme=tokyonight)](https://github.com/AdarshM-Official/your-saas-repo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=your-saas-repo&theme=tokyonight&cache_seconds=86400)](https://github.com/AdarshM-Official/your-saas-repo)
 
 **Tech Stack:** Python • Django • PostgreSQL • Docker • Celery
 **Status:** 🚀 Production | ⭐ 150+ Stars | 🍴 45+ Forks
@@ -96,7 +107,7 @@ My passion lies in crafting robust, intelligent, and scalable solutions. Here's 
 ---
 
 ### 🔥 [AI-Powered Recommendation Engine](https://github.com/AdarshM-Official/your-ai-engine-repo) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=your-ai-engine-repo&theme=tokyonight)](https://github.com/AdarshM-Official/your-ai-engine-repo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=your-ai-engine-repo&theme=tokyonight&cache_seconds=86400)](https://github.com/AdarshM-Official/your-ai-engine-repo)
 
 **Tech Stack:** Python • TensorFlow • Flask • MongoDB • FastAPI
 **Status:** 🚧 In Development | ⭐ 89+ Stars | 🍴 23+ Forks
@@ -105,7 +116,7 @@ My passion lies in crafting robust, intelligent, and scalable solutions. Here's 
 ---
 
 ### ⚡ [Full-Stack E-commerce Application](https://github.com/AdarshM-Official/your-ecommerce-repo) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=your-ecommerce-repo&theme=tokyonight)](https://github.com/AdarshM-Official/your-ecommerce-repo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=your-ecommerce-repo&theme=tokyonight&cache_seconds=86400)](https://github.com/AdarshM-Official/your-ecommerce-repo)
 
 **Tech Stack:** React • Django • PostgreSQL • Stripe API
 **Status:** ✅ Complete | ⭐ 200+ Stars | 🍴 67+ Forks
