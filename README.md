@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Adarsh%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Software%20Developer%20|%20AI%20Enthusiast%20|%20Creative%20Coder&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Adarsh%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Software%20Developer%20|%20AI%20Enthusiast%20|%20Creative%20Coder&descAlignY=58&descSize=18" alt="Header banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Code.+Create.+Repeat.;Building+cool+things+with+AI+%26+Web.;Turning+caffeine+into+projects+since+forever.;Bug+fixer+by+day%2C+debug+warrior+by+night." alt="Typing SVG" />
 
@@ -38,7 +38,7 @@ Fun Fact:
   - Debugging at 2AM feels illegal but productive ☕
 ```
 
-### 🌱 What I’m Up To
+### 🌱 What I'm Up To
 - 🚀 Building creative and useful web projects
 - 🤝 Looking to collaborate on open-source projects
 - 🧠 Exploring AI & Machine Learning
@@ -65,29 +65,29 @@ Fun Fact:
 
 <div align="center">
 
-## 👩‍💻 Languages
+### 👩‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css" alt="Languages"/>
 </p>
 
-## ⚛️ Frontend
+### ⚛️ Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend stack"/>
 </p>
 
-## 🛠️ Backend
+### 🛠️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" alt="Backend stack"/>
 </p>
 
-## 🗄️ Database
+### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" alt="Database stack"/>
 </p>
 
-## ☁️ Tools & DevOps
+### ☁️ Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,postman" alt="Tools and DevOps"/>
 </p>
 
 </div>
@@ -98,13 +98,13 @@ Fun Fact:
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AdarshM=Official&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=AdarshM-Official&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub stats"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshM-Official&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshM-Official&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshM-Official&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshM-Official&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
 
 </div>
 
@@ -114,24 +114,42 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AdarshM-Official&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AdarshM-Official&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub trophies"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Top Projects
 
 <div align="center">
 
-| Project | Description | Tech |
-|---|---|---|
-| 🌐 Portfolio Website | Personal portfolio showcasing projects and skills | React, Tailwind |
-| 🤖 AI Chatbot | AI-powered chatbot application | Python, Flask |
-| 📱 Task Manager | Productivity and task management app | MERN Stack |
-| 🎨 UI Components | Reusable modern UI components | React, CSS |
+<a href="https://github.com/AdarshM-Official/portfolio-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=portfolio-website&theme=tokyonight&hide_border=true" alt="Portfolio Website"/>
+</a>
+<a href="https://github.com/AdarshM-Official/ai-chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=ai-chatbot&theme=tokyonight&hide_border=true" alt="AI Chatbot"/>
+</a>
+
+<a href="https://github.com/AdarshM-Official/task-manager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=task-manager&theme=tokyonight&hide_border=true" alt="Task Manager"/>
+</a>
+<a href="https://github.com/AdarshM-Official/ui-components">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=ui-components&theme=tokyonight&hide_border=true" alt="UI Components"/>
+</a>
 
 </div>
+
+> ⚠️ **Note:** Replace the repo names above (`portfolio-website`, `ai-chatbot`, `task-manager`, `ui-components`) with your **actual GitHub repository names** — the pin cards only render correctly for repos that exist on your profile.
+
+### 📁 Project Details
+
+| Project | Description | Tech Stack | Link |
+|---|---|---|---|
+| 🌐 Portfolio Website | Personal portfolio showcasing projects and skills | React, Tailwind | [Repo](https://github.com/AdarshM-Official/portfolio-website) |
+| 🤖 AI Chatbot | AI-powered chatbot application | Python, Flask | [Repo](https://github.com/AdarshM-Official/ai-chatbot) |
+| 📱 Task Manager | Productivity and task management app | MERN Stack | [Repo](https://github.com/AdarshM-Official/task-manager) |
+| 🎨 UI Components | Reusable modern UI components | React, CSS | [Repo](https://github.com/AdarshM-Official/ui-components) |
 
 ---
 
@@ -149,20 +167,20 @@ Fun Fact:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/adarshmofficial">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<a href="https://www.linkedin.com/in/adarshmofficial" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
 </a>
 <br>
 <a href="mailto:adarshm.off@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email"/>
 </a>
 
-<a href="https://github.com/AdarshM-Official">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+<a href="https://github.com/AdarshM-Official" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
 </a>
 
-<a href="https://twitter.com/Adarsh373952">
-  <img src="https://skillicons.dev/icons?i=twitter" width="50"/>
+<a href="https://twitter.com/Adarsh373952" target="_blank">
+  <img src="https://skillicons.dev/icons?i=x" width="50" alt="X (Twitter)"/>
 </a>
 
 </div>
@@ -173,7 +191,7 @@ Fun Fact:
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 
 </div>
 
@@ -203,6 +221,6 @@ Fun Fact:
 
 ### 💖 Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer banner"/>
 
 </div>
