@@ -1,196 +1,219 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
-</div>
-
-# 👨‍💻 Adarsh M | Software Developer
-### 🚀 Building the future, one commit at a time
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdarshM-Official&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-</div>
-
-## 🎯 Current Focus
-
-- 🔭 Working on: **Scalable web applications and SaaS products**
-- 🌱 Learning: **Advanced MLOps practices and serverless architectures**
-- 👯 Looking to collaborate on: **Open Source Projects focusing on AI/ML and full-stack development**
-- 💬 Ask me about: **Python, Django, AI/ML integration, and full-stack development best practices**
-- ⚡ Fun fact: **I love to automate repetitive tasks, sometimes even automating the automation process itself!**
-
-## 🛠️ Technology Arsenal
-
-My passion lies in crafting robust, intelligent, and scalable solutions. Here's a glimpse into the tools and technologies I wield:
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!-- TODO: Add/remove languages based on your actual skills -->
-
-### 🚀 Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-A30F0F?style=for-the-badge&logo=django-rest-framework&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-<!-- TODO: Add your actual frameworks (e.g., FastAPI, Vue.js, Node.js) -->
-
-### 🧠 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-<!-- TODO: Add other AI/ML tools (e.g., Keras, OpenCV, Hugging Face) -->
-
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!-- TODO: Add your cloud/devops tools (e.g., Kubernetes, Azure, GCP, CI/CD tools) -->
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-<!-- TODO: Add your databases (e.g., Redis, SQLite) -->
-
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdarshM-Official&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshM-Official&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
-</div>
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdarshM-Official&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
-
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshM-Official&theme=tokyo-night&hide_border=true"/>
-
-<!-- If the graph above doesn't load, it's likely rate-limited on the shared public instance.
-     Fallback mirror (community-hosted, drop in as a replacement if needed):
-     https://github-readme-activity-graph-psi.vercel.app/graph?username=AdarshM-Official&theme=tokyo-night&hide_border=true
-     Most reliable fix: deploy your own free instance at
-     https://github.com/Ashutosh00710/github-readme-activity-graph -->
-
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AdarshM-Official&theme=tokyonight&hide_border=true"/>
-</p>
-
-<!-- Old herokuapp.com link is dead (Heroku free tier discontinued).
-     streak-stats.demolab.com is the current official domain.
-     Fallback mirror if that's ever down:
-     https://github-readme-streak-stats-eight.vercel.app/?user=AdarshM-Official&theme=tokyonight&hide_border=true -->
-
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/AdarshM-Official" alt="Contribution Calendar" width="100%"/>
-
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section with your latest activity -->
-<!--END_SECTION:activity-->
-
-## 🏗️ Notable Projects
-
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-### 🌟 [Django SaaS Platform](https://github.com/AdarshM-Official/your-saas-repo) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=your-saas-repo&theme=tokyonight&cache_seconds=86400)](https://github.com/AdarshM-Official/your-saas-repo)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Adarsh%20M&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI-Driven%20Developer%20%E2%80%A2%20Software%20Test%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Adarsh M header" />
 
-**Tech Stack:** Python • Django • PostgreSQL • Docker • Celery
-**Status:** 🚀 Production | ⭐ 150+ Stars | 🍴 45+ Forks
-*A multi-tenant SaaS application built with Django, featuring user authentication, subscription management, and robust API endpoints. Optimized for scalability and performance.*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=760&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Adarsh+M+from+Kerala%2C+India;Building+web+apps+with+Python+%26+Django;Integrating+LLMs+%26+ML+into+real-world+products;Breaking+things+so+users+never+have+to+%F0%9F%90%9B;Freelance+developer+%7C+Open+to+opportunities" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 🔥 [AI-Powered Recommendation Engine](https://github.com/AdarshM-Official/your-ai-engine-repo) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=your-ai-engine-repo&theme=tokyonight&cache_seconds=86400)](https://github.com/AdarshM-Official/your-ai-engine-repo)
+<img src="https://komarev.com/ghpvc/?username=AdarshM-Official&label=Profile%20views&color=00b8d4&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Open to work" />
+<img src="https://img.shields.io/badge/Freelance-Available-7c4dff?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelance available" />
 
-**Tech Stack:** Python • TensorFlow • Flask • MongoDB • FastAPI
-**Status:** 🚧 In Development | ⭐ 89+ Stars | 🍴 23+ Forks
-*Developed a real-time recommendation system using machine learning models, deployed via a FastAPI backend. Provides personalized content suggestions based on user behavior.*
+<br/><br/>
 
----
-
-### ⚡ [Full-Stack E-commerce Application](https://github.com/AdarshM-Official/your-ecommerce-repo) <!-- TODO: Replace with actual project -->
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=AdarshM-Official&repo=your-ecommerce-repo&theme=tokyonight&cache_seconds=86400)](https://github.com/AdarshM-Official/your-ecommerce-repo)
-
-**Tech Stack:** React • Django • PostgreSQL • Stripe API
-**Status:** ✅ Complete | ⭐ 200+ Stars | 🍴 67+ Forks
-*A comprehensive e-commerce platform with secure payment gateway integration, product catalog management, and responsive frontend design.*
+<a href="https://www.linkedin.com/in/adarshmofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:adarshm.off@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/AdarshM-Official"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
-## 🌐 Let's Connect & Collaborate
+<br/>
+
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## 👨‍💻 About Me
+
+```python
+class Adarsh:
+    def __init__(self):
+        self.name      = "Adarsh M"
+        self.location  = "Trivandrum, Kerala 🇮🇳"
+        self.roles     = ["Full Stack Developer", "AI-Driven Developer", "Software Test Engineer"]
+        self.stack     = ["Python", "Django", "REST APIs", "JavaScript", "SQL", "Machine Learning"]
+        self.education = "MCA, University of Kerala (2024 – 2026)"
+        self.status    = "Freelancing & open to full-time roles"
+
+    def what_i_do(self):
+        return "Design databases, build RESTful APIs, and weave AI into web experiences"
+
+    def philosophy(self):
+        return "Ship clean, test thoroughly, keep the user first."
+```
+
+- 🔭 I build **responsive, user-focused web apps** across the full development lifecycle, from SQL schema design to REST APIs and polished front ends.
+- 🤖 I love **integrating LLMs and ML models** into web products (chatbots, recommendation engines, automation).
+- 🧪 I care about quality: **unit testing**, SDLC discipline, and catching bugs before users do.
+- 🌱 Currently sharpening my **Data Science with Python** and **AI/LLM application** skills.
+- 💼 Available for **freelance projects**, **collaborations**, and **full-time opportunities**.
+
+<br/>
+
+<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adarshm.onrender.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- TODO: Add your email -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle if you have one -->
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,php,html,css&theme=dark" alt="Languages" />
 
-### 📱 Social Presence
-[![GitHub followers](https://img.shields.io/github/followers/AdarshM-Official?style=social)](https://github.com/AdarshM-Official)
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle if you have one -->
+**Frameworks & Libraries**<br/>
+<img src="https://skillicons.dev/icons?i=django,bootstrap,tailwind,sklearn,pandas,numpy&theme=dark" alt="Frameworks" />
+
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,oracle&theme=dark" alt="Databases" />
+
+**Tools & Platforms**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
+
+<!--
+  Test-engineer tools: uncomment the line below for the ones you actually use.
+  <br/><b>Testing</b><br/>
+  <img src="https://skillicons.dev/icons?i=selenium,postman,pytest&theme=dark" alt="Testing" />
+-->
 
 </div>
 
-## 🎓 Certifications & Achievements
-<!-- TODO: Add your certifications, courses, achievements -->
-- 🏆 AWS Certified Developer - Associate
-- 📜 Google Cloud Associate Cloud Engineer
-- 🥇 HackerRank 5-star in Python & SQL
-- 📊 Coursera Deep Learning Specialization
+<details>
+<summary><b>📚 Concepts & Soft Skills</b></summary>
+<br/>
 
-## 📝 Latest Blog Posts
-<!-- TODO: Add your recent blog posts -->
-- 📖 [Building Scalable Django Microservices with DRF and Docker](https://adarshm.onrender.com/blog/django-microservices)
-- 🔧 [Integrating Machine Learning Models into Web Applications using FastAPI](https://adarshm.onrender.com/blog/ml-fastapi)
-- ☁️ [Optimizing PostgreSQL Performance for High-Traffic Django Apps](https://adarshm.onrender.com/blog/postgresql-optimization)
+| Area | Skills |
+|---|---|
+| **Engineering concepts** | SDLC · OOP · MVC Architecture · RESTful APIs · Unit Testing · Responsive Web Design |
+| **Emerging tech** | Artificial Intelligence · Large Language Models (LLMs) · Machine Learning · AI Tools |
+| **Soft skills** | Communication · Team Collaboration · Problem Solving · Adaptability · Time Management |
 
-## 🎯 2026 Goals
-<!-- TODO: Update with your current year goals -->
-- 🚀 Contribute to 5+ significant open source projects
-- 📚 Master advanced Kubernetes and cloud-native patterns
-- 🌟 Reach 50+ GitHub followers and grow my network
-- 📝 Write 6+ technical blog posts sharing my insights
+</details>
 
-## 🏆 Open Source Contributions
-<!-- TODO: Highlight your major contributions -->
-- 🔧 **[Django-Toolbox]**: Implemented a new caching strategy, improving query performance by 20%.
-- 🌟 **[Awesome-AI-Tools]**: Curated and contributed to a list of cutting-edge AI development tools and resources.
-- 🚀 **[Python-Utils-Library]**: Developed a new set of utility functions for data processing, adopted by several community projects.
+<br/>
 
----
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## 🚀 Featured Projects
 
-## ☕ Support My Work
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏫 Multi-College Personalised Management Platform</h3>
+      <p>AI-powered, cloud-based education management system with role-based portals, attendance tracking, scheduling and student management. Includes a <b>chatbot assistant</b> and <b>automated timetable generation</b>.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/AdarshM-Official/REPO_NAME_1"><b>📂 View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 LearnLoop: Career Assistance Platform</h3>
+      <p>Career-guidance platform that uses a <b>Machine Learning model</b> to recommend personalised career paths. A dynamic questionnaire analyses responses and returns tailored skill-development suggestions via internal APIs.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/AdarshM-Official/LearnLoop"><b>📂 View Repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📅 BookingCloud: Multi-Tenant SaaS Booking Platform</h3>
+      <p>Businesses get their own <b>subdomain-based booking site</b> to showcase services, staff and availability. Features tenant data isolation, business dashboards, service/staff management and shareable booking URLs.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br/><br/>
+      <a href="https://github.com/AdarshM-Official/BookingCloud"><b>📂 View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌾 Farmie: Farming Assistance Web Service</h3>
+      <p>Full-stack agriculture management system to streamline farm operations, backed by <b>PostgreSQL</b>, with an admin panel for managing records and monitoring user activity.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/AdarshM-Official/Farmie"><b>📂 View Repository →</b></a>
+    </td>
+  </tr>
+</table>
 
-If you found my projects helpful or learned something from my code, consider supporting my work:
+<br/>
+
+<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
+## 💼 Experience
+
+```text
+2026 ─┬─ 🤖 AI Developer Intern · Zecser Business LLP          (May 2026 – Aug 2026)
+      │     ↳ Built AI-powered application features with Python, APIs and AI/ML tools
+      │     ↳ Supported backend development & AI integrations with the dev team
+      │
+2025 ─┴─ 🧠 AI & Machine Learning Intern · Srishti Innovative
+            ↳ Developed a Breast Cancer Detection diagnostic model using ML
+            ↳ Built data preprocessing/cleaning pipelines + feature engineering
+              to improve model accuracy
+```
+
+<br/>
+
+<!-- ═══════════════════════════ CERTIFICATIONS & EDUCATION ═══════════════════════════ -->
+## 🎓 Education & Certifications
+
+| 🎓 Education | 📜 Certifications |
+|---|---|
+| **MCA**, University of Kerala<br/>*2024 – 2026*<br/><br/>**B.Sc. Computer Science**, Kerala University<br/>*2021 – 2024* | **Data Science Using Python**: Infosys Springboard (2026)<br/>**Data Analyst Bootcamp**: Udemy (2025)<br/>**Software Development in Python**: NASSCOM IT-ITeS SSC (2024) |
+
+<br/>
+
+<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AdarshM-Official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshM-Official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
+<img src="https://streak-stats.demolab.com?user=AdarshM-Official&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AdarshM-Official)
+<img src="https://github-profile-trophy.vercel.app/?username=AdarshM-Official&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshM-Official&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" width="100%" />
 
 </div>
 
+<br/>
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+## 🐍 Contribution Snake
+
 <div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/output/github-snake.svg" />
+  </picture>
 </div>
 
----
+<br/>
+
+<!-- ═══════════════════════════ FUN / CONTACT ═══════════════════════════ -->
+## 🤝 Let's Work Together
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdarshM-Official&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
-  ### 🚀 "Code is poetry, and every commit tells a story"
+**Need a web app, an AI-powered feature, or someone to test your product before launch?**
 
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+<a href="mailto:adarshm.off@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20Me-adarshm.off@gmail.com-00b8d4?style=for-the-badge" alt="Email me" /></a>
+<a href="https://www.linkedin.com/in/adarshmofficial"><img src="https://img.shields.io/badge/💬%20Connect-LinkedIn-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+
+<br/><br/>
+
+<sub>⚡ Fun fact: I started out with a plain CS degree and now spend my days teaching Django to talk to LLMs.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="Footer" />
+
 </div>
