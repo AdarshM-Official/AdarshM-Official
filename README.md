@@ -179,12 +179,6 @@ class Adarsh:
 <img src="https://img.shields.io/github/followers/AdarshM-Official?style=for-the-badge&logo=github&color=00b8d4" alt="Followers" />
 
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/main/metrics-overview.svg" alt="GitHub overview" width="100%" />
-
-<img src="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/main/metrics-languages.svg" alt="Most used languages" width="49%" />
-<img src="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/main/metrics-isocalendar.svg" alt="Isometric contribution calendar" width="49%" />
-
 </div>
 
 <br/>
