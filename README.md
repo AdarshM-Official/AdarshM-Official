@@ -188,7 +188,7 @@ class Adarsh:
 
 <div align="center">
   <a href="https://github.com/AdarshM-Official">
-  <img src="https://ghchart.rshah.org/00b8d4/AdarshM-Official" alt="Adarsh's GitHub contribution chart" width="90%" />
+  <img src="https://ghchart.rshah.org/8ac578/AdarshM-Official" alt="Adarsh's GitHub contribution chart" width="90%" />
 </a>
 </div>
 
