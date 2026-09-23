@@ -172,24 +172,18 @@ class Adarsh:
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=AdarshM-Official&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/AdarshM-Official?style=for-the-badge&logo=github&color=00b8d4" alt="Followers" />
+
+<br/><br/>
+
 <img src="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/main/metrics-overview.svg" alt="GitHub overview" width="100%" />
 
 <img src="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/main/metrics-languages.svg" alt="Most used languages" width="49%" />
 <img src="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/main/metrics-isocalendar.svg" alt="Isometric contribution calendar" width="49%" />
-
-<br/>
-
-<details>
-<summary><b>More live cards</b> <sub>(public services, may occasionally be unavailable)</sub></summary>
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=AdarshM-Official&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=AdarshM-Official&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshM-Official&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" width="100%" />
-
-</details>
 
 </div>
 
