@@ -172,8 +172,16 @@ class Adarsh:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AdarshM-Official&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshM-Official&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/main/metrics-overview.svg" alt="GitHub overview" width="100%" />
+
+<img src="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/main/metrics-languages.svg" alt="Most used languages" width="49%" />
+<img src="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/main/metrics-isocalendar.svg" alt="Isometric contribution calendar" width="49%" />
+
+<br/>
+
+<details>
+<summary><b>More live cards</b> <sub>(public services, may occasionally be unavailable)</sub></summary>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=AdarshM-Official&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
@@ -181,11 +189,22 @@ class Adarsh:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshM-Official&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity graph" width="100%" />
 
+</details>
+
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AdarshM-Official/AdarshM-Official/output/github-snake.svg" />
+  </picture>
+</div>
 
 <br/>
 
